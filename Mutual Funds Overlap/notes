@@ -1,0 +1,31 @@
+1) Reading Stocks of Each Fund
+
+2) Reading & Storing the Instructions from File
+
+3) Executing flow according to each instructions
+
+4)
+
+Classes:
+
+Funds:
+
+  Contains Stock Meta-Data for each Fund.
+
+  Methods:
+    GetFundHoldings
+
+Portfolio
+
+  Contains Stock Meta-Data of User's Portfolio.
+
+  Methods:
+    GetHoldingsFromEachFund
+    CheckOverlap
+
+
+CURRENT_PORTFOLIO AXIS_BLUECHIP ICICI_PRU_BLUECHIP UTI_NIFTY_INDEX
+CALCULATE_OVERLAP MIRAE_ASSET_EMERGING_BLUECHIP
+CALCULATE_OVERLAP MIRAE_ASSET_LARGE_CAP
+ADD_STOCK AXIS_BLUECHIP TCS
+CALCULATE_OVERLAP MIRAE_ASSET_EMERGING_BLUECHIP

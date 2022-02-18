@@ -1,0 +1,19 @@
+Inputs to work on :
+
+  1) Apartment Type
+  2) Co-orporation vs Borwell supply ratio
+  3) Number of guests
+
+  To-Do:
+  a) From Apartment type, calculate the number of residents.
+  b) From the total number of guests, calc the water capacity for the guests.
+  c) calculate the total pricing for the guests (based on pricing chart).
+
+  Additional Input-Data Found:
+
+    1) Total number of residents
+
+      To-Do:
+      a) From total number of residents, calc the water capacity for the residents.
+      b) Divide the water capacity to water supply ration provided by co-orp vs borewell
+      c) calculate the total pricing for the residents (based on pricing chart).
